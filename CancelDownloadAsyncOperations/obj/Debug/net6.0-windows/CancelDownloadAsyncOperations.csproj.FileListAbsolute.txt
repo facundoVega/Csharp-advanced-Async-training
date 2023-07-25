@@ -1,0 +1,17 @@
+C:\Users\facundo.vega\source\repos\asyncAwaitPattern\CancelDownloadAsyncOperations\bin\Debug\net6.0-windows\CancelDownloadAsyncOperations.exe
+C:\Users\facundo.vega\source\repos\asyncAwaitPattern\CancelDownloadAsyncOperations\bin\Debug\net6.0-windows\CancelDownloadAsyncOperations.deps.json
+C:\Users\facundo.vega\source\repos\asyncAwaitPattern\CancelDownloadAsyncOperations\bin\Debug\net6.0-windows\CancelDownloadAsyncOperations.runtimeconfig.json
+C:\Users\facundo.vega\source\repos\asyncAwaitPattern\CancelDownloadAsyncOperations\bin\Debug\net6.0-windows\CancelDownloadAsyncOperations.dll
+C:\Users\facundo.vega\source\repos\asyncAwaitPattern\CancelDownloadAsyncOperations\bin\Debug\net6.0-windows\CancelDownloadAsyncOperations.pdb
+C:\Users\facundo.vega\source\repos\asyncAwaitPattern\CancelDownloadAsyncOperations\obj\Debug\net6.0-windows\CancelDownloadAsyncOperations.csproj.AssemblyReference.cache
+C:\Users\facundo.vega\source\repos\asyncAwaitPattern\CancelDownloadAsyncOperations\obj\Debug\net6.0-windows\CancelDownloadAsyncOperations.Form1.resources
+C:\Users\facundo.vega\source\repos\asyncAwaitPattern\CancelDownloadAsyncOperations\obj\Debug\net6.0-windows\CancelDownloadAsyncOperations.csproj.GenerateResource.cache
+C:\Users\facundo.vega\source\repos\asyncAwaitPattern\CancelDownloadAsyncOperations\obj\Debug\net6.0-windows\CancelDownloadAsyncOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facundo.vega\source\repos\asyncAwaitPattern\CancelDownloadAsyncOperations\obj\Debug\net6.0-windows\CancelDownloadAsyncOperations.AssemblyInfoInputs.cache
+C:\Users\facundo.vega\source\repos\asyncAwaitPattern\CancelDownloadAsyncOperations\obj\Debug\net6.0-windows\CancelDownloadAsyncOperations.AssemblyInfo.cs
+C:\Users\facundo.vega\source\repos\asyncAwaitPattern\CancelDownloadAsyncOperations\obj\Debug\net6.0-windows\CancelDownloadAsyncOperations.csproj.CoreCompileInputs.cache
+C:\Users\facundo.vega\source\repos\asyncAwaitPattern\CancelDownloadAsyncOperations\obj\Debug\net6.0-windows\CancelDownloadAsyncOperations.dll
+C:\Users\facundo.vega\source\repos\asyncAwaitPattern\CancelDownloadAsyncOperations\obj\Debug\net6.0-windows\refint\CancelDownloadAsyncOperations.dll
+C:\Users\facundo.vega\source\repos\asyncAwaitPattern\CancelDownloadAsyncOperations\obj\Debug\net6.0-windows\CancelDownloadAsyncOperations.pdb
+C:\Users\facundo.vega\source\repos\asyncAwaitPattern\CancelDownloadAsyncOperations\obj\Debug\net6.0-windows\CancelDownloadAsyncOperations.genruntimeconfig.cache
+C:\Users\facundo.vega\source\repos\asyncAwaitPattern\CancelDownloadAsyncOperations\obj\Debug\net6.0-windows\ref\CancelDownloadAsyncOperations.dll
